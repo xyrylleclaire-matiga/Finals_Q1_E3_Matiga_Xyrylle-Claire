@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finals_Q1 - Todo Management System API
 
 This is the backend for the Todo Management System, built with .NET 9 Web API.
@@ -32,3 +33,6 @@ This is the backend for the Todo Management System, built with .NET 9 Web API.
 - **Repository Pattern (Simplified)**: Data is managed within the controller for this assignment.
 - **RESTful Principles**: Uses standard HTTP verbs and status codes (200, 201, 204, 400).
 - **Concurrency**: Thread-safe operations using `lock` on the in-memory list.
+=======
+# Finals_Q1_E3_Matiga_Xyrylle-Claire
+>>>>>>> c4312d42d71fba9d37dc46e2e3c08720253b634a
